@@ -2,6 +2,10 @@
 
 This repository contains the code and instructions for my **Nixie Tube Clock and Thermometer** project.
 
+<p align="center">
+  <img src="pics/nixie_intro.gif" width="200">
+</p>
+
 ## Project Goal
 
 The goal of this project is to build a **Nixie tube clock** using four **IN-14 Nixie tubes** controlled by a **Raspberry Pi Pico W**.
