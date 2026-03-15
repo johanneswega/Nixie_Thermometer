@@ -90,4 +90,9 @@ The general outline of how the Nixie tubes interface with the Pico and how the d
 
 ## Status
 
-🚧 Work in progress
+- ✅ first module completed: two Nixie tubes mounted on a PCB and connected to their respective driver ICs
+- ⏳ build the same module for Nixie tubes **3 and 4**
+- ⏳ wire everything to Pico W and display time
+- ⏳ DHT22 temperature/humidity integration
+- ⏳ Mode switching (time / temperature / humidity)
+- ⏳ put everything in a nice enclosure
