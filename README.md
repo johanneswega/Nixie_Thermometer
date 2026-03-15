@@ -64,13 +64,13 @@ For **four tubes**, the system requires:
 
 The general outline of how the Nixie tubes interface with the Pico and how the drivers work is summarized in the handwritten screenshots below.
 
-<img src="pics/0.jpg" alt="drawing" width="200"/>
+<img src="pics/0.jpeg" width="250"/>  <br />  <br />
 
-<img src="pics/1.jpg" alt="drawing" width="200"/>
+<img src="pics/1.jpeg" width="250"/>  <br />  <br />
 
-<img src="pics/2.jpg" alt="drawing" width="200"/>
+<img src="pics/2.jpeg" width="250"/>  <br />  <br />
 
-<img src="pics/3.jpg" alt="drawing" width="200"/>
+<img src="pics/3.jpeg" width="200"/>  <br />  <br />
 ---
 
 ## Components Used
